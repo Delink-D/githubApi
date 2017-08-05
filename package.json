@@ -1,0 +1,27 @@
+{
+  "name": "gitapi",
+  "version": "1.0.0",
+  "description": "An app that uses github api to list user repositories \n 
+  the app requires a github username and it will do the rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Delink",
+  "license": "ISC",
+  "devDependencies": {
+    "bower-files": "^3.14.1",
+    "browser-sync": "^2.18.6",
+    "browserify": "^13.3.0",
+    "concat": "0.0.1-security",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {}
+}
